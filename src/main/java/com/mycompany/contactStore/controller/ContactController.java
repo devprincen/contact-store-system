@@ -33,7 +33,7 @@ public class ContactController {
 
     @PostMapping
     public Contact add(@RequestBody Contact c){
-        return service.add(c);
+        return service.save(c);
     }
     
     @PutMapping("/{id}")
@@ -46,3 +46,6 @@ public class ContactController {
         service.delete(id);
     }
 }
+
+
+
