@@ -75,15 +75,20 @@ A full-stack web application that allows users to securely manage and store thei
 
 ### 🔑 Login Page
 
-<img width="500" height="500" alt="Screenshot from 2025-11-12 18-00-57" src="file:///home/anop/Pictures/Screenshots/Screenshot%20from%202026-04-07%2018-22-37.png"/></br></br>
+<img width="400" height="400" alt="Screenshot from 2026-04-07 18-22-37" src="https://github.com/user-attachments/assets/99c9ebf0-82b0-44bd-bb19-80dfd8b55d13" />
 
 ### 🏠 Home Page
 
-<!-- INSERT IMAGE HERE -->
+ <img width="1400" height="600" alt="Screenshot from 2026-04-07 18-24-54" src="https://github.com/user-attachments/assets/b7bfaa4e-d22e-4831-85fc-419065cc18d9" />
+
 
 ### ➕ Add Contact
 
-<!-- INSERT IMAGE HERE -->
+<img width="1400" height="600" alt="Screenshot from 2026-04-07 18-25-18" src="https://github.com/user-attachments/assets/468b87a8-ba23-4768-aa0e-abe9fa8bbdd1" />
+
+### ➕ After Add Contact
+
+<img width="1400" height="600" alt="Screenshot from 2026-04-07 18-25-24" src="https://github.com/user-attachments/assets/0dd8dd02-64d3-4c30-bba1-eadfbac5452f" />
 
 ---
 
